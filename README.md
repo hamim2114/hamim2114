@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="300" src="https://i.gifer.com/3zMk.gif"  />
-</div>
 
-###
 
 <h1 align="center">hey there 👋 I'm Hamim Arfat</h1>
 
@@ -10,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img to="mailto: hamim2114@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -72,15 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamim2114&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamim2114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hamim2114&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamim2114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/hamim2114/hamim2114/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
