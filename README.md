@@ -25,7 +25,7 @@
 <h4>Some Clients work..</h4>
 [PoshCoder] (https://poshcoder.vercel.app/) <br/>
 [TargetCoaching] (https://targetcoachinghome.vercel.app/) <br/>
-[AhmedAssocialte] (https://ahmedassociates.vercel.app/)
+[Ahmedassociates] (https://ahmedassociates.vercel.app/)
 
 ###
 
