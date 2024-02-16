@@ -23,9 +23,9 @@
 ###
 
 <h4>Some Clients work..</h4>
-[PoshCoder] (https://poshcoder.vercel.app/) <br/>
-[TargetCoaching] (https://targetcoachinghome.vercel.app/) <br/>
-[Ahmedassociates] (https://ahmedassociates.vercel.app/)
+PoshCoder (React JS) https://poshcoder.vercel.app <br/>
+TargetCoaching (MERN Stack) https://targetcoachinghome.vercel.app <br/>
+Ahmedassociates (MERN Stack) https://ahmedassociates.vercel.app
 
 ###
 
